@@ -33,6 +33,7 @@ Definición
 Explicación sencilla
 Ejemplo aplicado
 Importancia del concepto
+
 📝 Generar preguntas
 
 Genera automáticamente:
@@ -40,6 +41,7 @@ Genera automáticamente:
 Preguntas teóricas
 Preguntas aplicadas
 Preguntas de análisis
+
 ✅ Corregir respuesta
 
 Evalúa respuestas de estudiantes proporcionando:
@@ -61,13 +63,17 @@ Argumentativo
 Descriptivo
 Crítico
 Técnico
+
 📂 Estructura del proyecto
+
 LLM-Demo/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
+
 📦 Instalación local
+
 1. Clonar el repositorio
 git clone https://github.com/TU_USUARIO/LLM-Demo.git
 cd LLM-Demo
@@ -79,6 +85,7 @@ streamlit run app.py
 La aplicación estará disponible en:
 
 http://localhost:8501
+
 🔑 Configuración de la API Key de Gemini
 
 La aplicación utiliza la API de Google Gemini.
